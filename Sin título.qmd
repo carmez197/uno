@@ -1,5 +1,16 @@
 ---
-title: "Untitled"
+title: "Carlos Andres Meza Salazar"
+subtitle: "Ingeniero de Sistemas"
+author: "Carlos Meza"
+format: html
+editor: visual
+date: "8/07/2024"
+lang: "es"
+self-contained: true
+description: "Mi historia profesional "
+toc: true
+code-tools: true
+code-fold: true
+toc-title: "" 
 ---
-
 hdh
