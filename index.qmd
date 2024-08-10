@@ -1,14 +1,35 @@
 ---
 title: "Carlos Meza"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+subtitle: "Diseño de Experimentos"
+author: "Carlos Meza"
+format: html
+editor: visual
+date: "8/08/2024"
+lang: "es"
+self-contained: true
+description: "introduccion a mi hoja de vida"
 ---
 
-CArlos mezadvc
+## **About**
+
+I am an Assistant Professor of Data Analytics and Genomics at the Department of [Industrial Engineering](https://www.uninorte.edu.co/web/ingenieria-industrial), [Universidad del Norte](https://www.uninorte.edu.co/), Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning.
+
+## Educación
+
+### Universidad del Norte
+
+\[Logotipo de Universidad del Norte\]
+
+Universidad del Norte Maestria en Analitica de Datos Análisis de sistemas informáticosMaestria en Analitica de Datos, Análisis de sistemas informáticos ene. 2024 - jul. 2025 Analitica de Datos son algoritmos inteligentes y machine learning
+
+### Universidad El Bosque
+
+\[Logotipo de Universidad El Bosque\]
+
+Universidad del NorteUniversidad del Norte ingeniero de sistemas, Ingeniería de sistemasingeniero de sistemas, Ingeniería de sistemas 2003 - 2009
+
+### Universidad del Norte
+
+\[Logotipo de Universidad del Norte\]
+
+Universidad del NorteUniversidad del Norte ingeniero de sistemas, Ingeniería de sistemasingeniero de sistemas, Ingeniería de sistemas 2003 - 2009

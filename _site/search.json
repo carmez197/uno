@@ -4,6 +4,48 @@
     "href": "index.html",
     "title": "Carlos Meza",
     "section": "",
-    "text": "CArlos mezadvc\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nAug 9, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nAug 6, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "I am an Assistant Professor of Data Analytics and Genomics at the Department of Industrial Engineering, Universidad del Norte, Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Carlos Meza",
+    "section": "",
+    "text": "I am an Assistant Professor of Data Analytics and Genomics at the Department of Industrial Engineering, Universidad del Norte, Barranquilla, Colombia. My research interests include applied analytics, bioinformatics, population genetics and Machine Learning."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Carlos Meza",
+    "section": "Educación",
+    "text": "Educación\n\nUniversidad del Norte\n[Logotipo de Universidad del Norte]\nUniversidad del Norte Maestria en Analitica de Datos Análisis de sistemas informáticosMaestria en Analitica de Datos, Análisis de sistemas informáticos ene. 2024 - jul. 2025 Analitica de Datos son algoritmos inteligentes y machine learning\n\n\nUniversidad El Bosque\n[Logotipo de Universidad El Bosque]\nUniversidad del NorteUniversidad del Norte ingeniero de sistemas, Ingeniería de sistemasingeniero de sistemas, Ingeniería de sistemas 2003 - 2009\n\n\nUniversidad del Norte\n[Logotipo de Universidad del Norte]\nUniversidad del NorteUniversidad del Norte ingeniero de sistemas, Ingeniería de sistemasingeniero de sistemas, Ingeniería de sistemas 2003 - 2009"
+  },
+  {
+    "objectID": "Sin título.html",
+    "href": "Sin título.html",
+    "title": "Carlos Andres Meza Salazar",
+    "section": "",
+    "text": "hdhdd"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]
